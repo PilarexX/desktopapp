@@ -1,0 +1,11 @@
+C:\Users\Daniel\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\Daniel\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\Daniel\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\Daniel\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Daniel\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CopyComplete
+C:\Users\Daniel\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\Daniel\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
